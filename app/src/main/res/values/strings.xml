@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="StringB1">Hola</string>
+    <string name="StringB2">Adios</string>
+    <string name="StringB3">Boton3</string>
+    <string name="StringB4">Boton4</string>
+    <string name="StringB5">Boton5</string>
+    <string name="StringB6">Boton6</string>
+    <string name="StringB7">Boton7</string>
+    <string name="StringB8">Boton8</string>
+</resources>
